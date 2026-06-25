@@ -2,7 +2,7 @@
 
 ## Team Manager - Bryce Viva
 
-## Team Eingeers:
+## Team Engineers:
 Matthew Brannon
 
 Blake Hancock
